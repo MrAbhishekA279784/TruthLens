@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens",
+  "description": "AI-powered digital media authenticity and deepfake forensic analysis platform. Not just fake or real. Tell me why and where.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
